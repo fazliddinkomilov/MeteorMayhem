@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BodyPart
+  - Projectile
+  - WeaponManager
+  - Enemy
+  - GameManager
+  - ItemManager
+  - Wall
+  - Metal
+  - Blood
+  - Dirt
+  - Water
+  - AI
+  - Remote
+  - IgnoreBullet
+  - Concrete
+  - ExplosiveBarrel
+  - Target
+  - GasTank
+  - Metal (Static)
+  - Wood (Static)
+  - Dirt (Static)
+  - Wood
+  - Knife
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Weapons
+  - Player
+  - MiniMap
+  - PostEffects
+  - Local
+  - Zone
+  - Invisible Wall
+  - Vehicle
+  - Interactable
+  - Bullet
+  - Gun
+  - Granade
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
